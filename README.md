@@ -246,12 +246,5 @@ print(df[z['weight']>3])
 ```
 
 ![Screenshot 2024-09-05 210027](https://github.com/user-attachments/assets/1d701938-f0da-4cec-a4dc-d330c368101e)
-
-
-
-
-
-
-
 # Result
-          <<include your Result here>>
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
